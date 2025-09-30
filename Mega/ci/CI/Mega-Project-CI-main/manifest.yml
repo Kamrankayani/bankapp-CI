@@ -134,7 +134,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: kamrandevops23:v17
+        image: kamrandevops23:latest
         resources:
           requests:
             memory: "256Mi"
